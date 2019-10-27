@@ -1,0 +1,46 @@
+{
+	"name" : "Durian Milk Ice",
+	"description" : "Durian Milk Ice is combination of durian fruit and milk that frozen",
+	"github" : "isnaini279",
+	"ingredients" : [
+		{
+			"quantity": "1",
+            "measure": "piece",
+            "ingredient": "durian"
+		},
+		{
+			"quantity": "5",
+            "measure": "sachet",
+            "ingredient": "Milk SKM"
+		},
+		{
+			"quantity": "1",
+            "measure": "tablespoon",
+            "ingredient": "sugar"
+		},
+		{
+			"quantity": "1400",
+            "measure": "ml",
+            "ingredient": "mineral water"
+		},
+		{
+			"quantity": "100",
+            "measure": "gr",
+            "ingredient": "cheese"
+		}
+	],
+	"directions": [
+        "First enter the durian that has just been taken into the blender.",
+        "Add milk that has been given warm water.",
+        "Then add enough sugar (to taste), then blender.",
+        "Add grated cheese, stirring further, wrap it in ice plastic.",
+        "Put it in the freezer until frozen."
+    ],
+    "image": "durian-milk.jpg",
+    "source" : "https://cookpad.com/id/resep/9727800-es-durian-susu-keju?via=search&search_term=es%20durian",
+    "keywords": [
+        "durian",
+        "frozen",
+        "non-alcoholic"
+    ]
+}
