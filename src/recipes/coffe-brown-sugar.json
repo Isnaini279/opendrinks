@@ -1,0 +1,32 @@
+{
+    "name": "Ice Coffe Brown Sugar",
+    "description": "Ice Coffe Brown Sugar is drink that made by mixed coffe, milk, and brown sugar",
+    "github": "isnaini279",
+    "ingredients": [
+        {
+            "quantity": "5",
+            "measure": "tablespoon",
+            "ingredient": "espresso"
+        },
+        {
+            "quantity": "1",
+            "measure": "shot",
+            "ingredient": "milk"
+        },
+        {
+            "quantity": "3",
+            "measure": "tablespoon",
+            "ingredient": "brown sugar liquid"
+        }
+    ],
+    "directions": [
+        "Prepare original espresso in a bottle milkshake then add milk.",
+        "After that, shake espresso and milk",
+        "At the last, serving in the glass and add brown sugar liquid"
+    ],
+    "image": "coffe-brown-sugar.jpg",
+    "keywords": [
+        "coffe",
+        "brown sugar",
+    ]
+}
